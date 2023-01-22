@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img
     style="height: auto; width: 40%;"
     class="img"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLN37&theme=slateorange&langs_count=8&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLN37&theme=slateorange&langs_count=8&layout=compact&hide=Roff"
   />
 </a>
 </div>
