@@ -16,11 +16,24 @@ Here are some ideas to get you started:
 -->
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=VLN37&show_icons=true&theme=slateorange" />
+<a id="image1" href="#image1">
+  <img
+    style="height: auto; width: 55%;"
+    class="img"
+    src="https://github-readme-stats.vercel.app/api?username=VLN37&show_icons=true&theme=slateorange"
+  />
+</a>
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLN37&theme=slateorange&langs_count=8&layout=compact" /></div>
+<a id="box2" href="#box2">
+  <img
+    style="height: auto; width: 40%;"
+    class="img"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLN37&theme=slateorange&langs_count=8&layout=compact"
+  />
+</a>
 </div>
+
 
 #### Toolbox
 
