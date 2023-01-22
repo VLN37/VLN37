@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div class='container'>
-<a id="box1" href="#box1">
+<a id="box1" href="#">
   <img
     style="height: auto; width: 55%;"
     class="img"
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 &nbsp;
 &nbsp;
-<a id="box2" href="#box2">
+<a id="box2" href="#">
   <img
     style="height: auto; width: 40%;"
     class="img"
