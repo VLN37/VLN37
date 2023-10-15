@@ -1,41 +1,10 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**VLN37/VLN37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div class='container'>
-<a id="box1" href="#">
-  <img
-    style="height: auto; width: 55%;"
-    class="img"
-    src="https://github-readme-stats.vercel.app/api?username=VLN37&show_icons=true&theme=slateorange"
-  />
-</a>
-&nbsp;
-&nbsp;
-<a id="box2" href="#">
-  <img
-    style="height: auto; width: 40%;"
-    class="img"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLN37&theme=slateorange&langs_count=8&layout=compact&hide=Roff"
-  />
-</a>
-</div>
+| [![stats](https://github-readme-stats.vercel.app/api?username=VLN37&show_icons=true&theme=slateorange)](https://github.com/VLN37?tab=repositories)| [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VLN37&theme=slateorange&langs_count=8&layout=compact&hide=Roff)](https://github.com/VLN37?tab=repositories) |
+|:-:|:-:|
 
 
-#### Toolbox
+Toolbox
 
 <a id="image1" href="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a id="image1" href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
