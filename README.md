@@ -1,5 +1,7 @@
 Hi there 👋
 
+Here you can find my pet and study projects!
+
 | [![stats](https://github-readme-stats.vercel.app/api?username=VLN37&show_icons=true&theme=slateorange)](https://github.com/VLN37?tab=repositories)| [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VLN37&theme=slateorange&langs_count=8&layout=compact&hide=Roff)](https://github.com/VLN37?tab=repositories) |
 |:-:|:-:|
 
